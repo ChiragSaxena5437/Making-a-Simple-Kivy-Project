@@ -1,4 +1,4 @@
-# Makinjg-a-Simple-Kivy-Project
+# Making-a-Simple-Kivy-Project
 The files upload in this repository are used to guide a begineer to make a simple kivy frontend 
 using very basic and fundamental components of frontend programming like labels , button and 
 programs like mousetracker and at last with module one we have created  a very simple kivy app using screenmanger
